@@ -6,35 +6,31 @@ Nice to Meet You!
 
 1. Physics Simulation
 
-2. Math
-- Calculus
+- Navier Stockes Equation
 
-  Link: 
+- Stable Fluid - Joe Stam
+
+3. Math
+   
+- Calculus
   
 - Linear Algebra
-
-  Link: 
   
 - Numerical Analysis
 
-  Link: 
+3. Computer Graphics
 
-4. Computer Graphics
+- 
 
-4. Computer Vision
+5. Computer Vision
 
 ## Undergraduate
+
 - Algorithm
 
-  Link: 
-
-- Computer Graphics
+- Computer Graphics [https://github.com/QjaYo/ComputerGraphics_2025Fall.git]
   
-  Link: https://github.com/QjaYo/ComputerGraphics_2025Fall.git
-  
-- Database
-
-  Link: https://github.com/QjaYo/Database_MiniProject.git
+- Database [https://github.com/QjaYo/Database_MiniProject.git]
 
 - 
 
