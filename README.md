@@ -28,7 +28,7 @@ Nice to Meet You!
 
 - Algorithm
 
-- Computer Graphics [https://github.com/QjaYo/ComputerGraphics_2025Fall.git]
+- Computer [Graphics https://github.com/QjaYo/ComputerGraphics.git]
   
 - Database [https://github.com/QjaYo/Database_MiniProject.git]
 
